@@ -1,5 +1,11 @@
 # @sveltejs/kit
 
+## 1.0.0-next.55
+
+### Patch Changes
+
+- d0a7019: switch to @sveltejs/vite-plugin-svelte
+
 ## 1.0.0-next.54
 
 ### Patch Changes
