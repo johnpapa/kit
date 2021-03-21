@@ -179,7 +179,7 @@ async function get_response({ request, options, $session, route, status = 200, e
 
 			if (mod.preload) {
 				throw new Error(
-					'preload has been deprecated in favour of load. Please consult the documentation: https://kit.svelte.dev/docs#load'
+					'preload has been deprecated in favour of load. Please consult the documentation: https://kit.svelte.dev/docs#loading'
 				);
 			}
 
